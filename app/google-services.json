@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76416450600",
+    "project_id": "bigparty-2de55",
+    "storage_bucket": "bigparty-2de55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76416450600:android:1b6057ecc75f24d10cf51d",
+        "android_client_info": {
+          "package_name": "com.ronny.bigparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76416450600-o37oklov1n47soc8ait14p9lu2kan78c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronny.bigparty",
+            "certificate_hash": "2019f0dc9f93552a92e382fe28345e4e2a88c1a8"
+          }
+        },
+        {
+          "client_id": "76416450600-4sn9bh1ropl7pdn55efemj51u4qcmn80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5MZKh_dVTSUzuxfqlIlhgcRFalOPV23M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76416450600-4sn9bh1ropl7pdn55efemj51u4qcmn80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
